@@ -1,0 +1,58 @@
+
+header-container-padre{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: inline;
+    text-align:  inline-flex;
+    height: 45px;
+
+}
+li{
+    display: inline-flex;
+    display: inline;
+    text-align: middle;
+   margin:2%;
+   text-decoration: none;
+   font-family: sans-serif;
+   
+}
+a {
+
+    color: #0E6957;
+  }
+ 
+.entrar{
+    font-family: sans-serif;
+    color: green;
+}
+  nav{
+   
+    text-align: center;
+    display: inline;
+   
+  }
+ 
+ div.imagen{/*En esta parte es para mover la imagen*/
+   position: absolute;
+  left: 100px;
+ }
+  div.boton{
+    text-decoration: none;
+    background-color: #67b54b;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border: 0;
+    border-radius: 5px;
+    text-align: right;
+    display: inline-block;
+    color: white;
+     
+     
+  }
+
+/*Margen fuera de la caja
+Padding: Margen dentro de la caja
+Border: grososr dr la linea contenedor*/
